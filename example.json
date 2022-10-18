@@ -1,0 +1,122 @@
+[
+  {
+    "name": "PARSER: A model for word segmentation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0749596X98925761",
+    "author": "P Perruchet, A Vinter\u00a0- Journal of memory and language, 1998 - Elsevier",
+    "annotation": "\u2026 in a computer program, PARSER. Simulations revealed that PARSER extracted the words of \n\u2026 PARSER is intended to show that our account of how words are extracted from continuous \u2026"
+  },
+  {
+    "name": "Stanford's graph-based neural dependency parser at the conll 2017 shared task",
+    "link": "https://aclanthology.org/K17-3002/",
+    "author": "T Dozat, P Qi, CD Manning\u00a0- \u2026\u00a0of the CoNLL 2017 shared task\u00a0\u2026, 2017 - aclanthology.org",
+    "annotation": "This paper describes the neural dependency parser submitted by Stanford to the CoNLL \n2017 Shared Task on parsing Universal Dependencies. Our system uses relatively simple \u2026"
+  },
+  {
+    "name": "A maximum-entropy-inspired parser",
+    "link": "https://aclanthology.org/A00-2018.pdf",
+    "author": "E Charniak\u00a0- 1st Meeting of the North American Chapter of the\u00a0\u2026, 2000 - aclanthology.org",
+    "annotation": "\u2026 We present a new parser for parsing down to Penn tree-bank style parse trees that achieves \n\u2026 This represents a 13% decrease in error rate over the best single-parser results on this \u2026"
+  },
+  {
+    "name": "A fast and accurate dependency parser using neural networks",
+    "link": "https://aclanthology.org/D14-1082.pdf",
+    "author": "D Chen, CD Manning\u00a0- Proceedings of the 2014 conference on\u00a0\u2026, 2014 - aclanthology.org",
+    "annotation": "\u2026 parser can achieve comparable accuracy with a very good speed.As the basis of our parser, \n\u2026 Furthermore, we also compare our parser with two popular, off-the-shelf parsers: MaltParser \u2026"
+  },
+  {
+    "name": "A verified LL (1) parser generator",
+    "link": "https://drops.dagstuhl.de/opus/volltexte/2019/11079/",
+    "author": "S Lasser, C Casinghino, K Fisher\u2026\u00a0- \u2026\u00a0Conference on Interactive\u00a0\u2026, 2019 - drops.dagstuhl.de",
+    "annotation": "\u2026 a parser for a JSON grammar. We then used Menhir [17], a popular OCaml parser generator, \nto produce an unverified parser for \u2026 The verified parser was two to four times slower than the \u2026"
+  },
+  {
+    "name": "ANTLR: A predicated\u2010LL(k) parser generator",
+    "link": "https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.4380250705",
+    "author": "TJ Parr, RW Quong\u00a0- Software: Practice and Experience, 1995 - Wiley Online Library",
+    "annotation": "\u2026 We introduce ANTLR, a public-domain parser generator that combines the flexibility of \nhand-coded parsing with the convenience of a parser generator, which is a component of PCCTS. \u2026"
+  },
+  {
+    "name": "Dependency parsing and domain adaptation with data-driven LR models and parser ensembles",
+    "link": "https://link.springer.com/chapter/10.1007/978-90-481-9352-3_4",
+    "author": "K Sagae, J Tsujii\u00a0- Trends in Parsing Technology, 2010 - Springer",
+    "annotation": "\u2026 associate parser states with the correct parser actions . Instead of using a simple look-up \ntable for predicting parser actions based on parser \u2026 parser into a best-first probabilistic parser. \u2026"
+  },
+  {
+    "name": "Parser evaluation: a survey and a new proposal.",
+    "link": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.53.8190&rep=rep1&type=pdf",
+    "author": "J Caroll, T Briscoe, A Sanfilippo\u00a0- LREC, 1998 - Citeseer",
+    "annotation": "\u2026 -of-the-art in parser evaluation methodologies and metrics. A \u2026 \u2014technique of measuring \nparser accuracy, based on the use \u2026 use this new scheme to evaluate a robust parser of English. \u2026"
+  },
+  {
+    "name": "The preparation and some properties of penicillenic acid derivatives relevant to penicillin hypersensitivity",
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2137523/",
+    "author": "CW Parser, AL deWeck, M Kern\u2026\u00a0- The Journal of\u00a0\u2026, 1962 - ncbi.nlm.nih.gov",
+    "annotation": "(From the Departments of Internal Medicine, Division of Dermatology, and Microbiology, \nWashington University School of Medicine, Page 1 THE PREPARATION AND SOME\u00a0\u2026"
+  },
+  {
+    "name": "Linking parser development to acquisition of syntactic knowledge",
+    "link": "https://www.tandfonline.com/doi/abs/10.1080/10489223.2014.943903",
+    "author": "A Omaki, J Lidz\u00a0- Language Acquisition, 2015 - Taylor & Francis",
+    "annotation": "Traditionally, acquisition of syntactic knowledge and the development of sentence comprehension \nbehaviors have been treated as separate disciplines. This article reviews a growing \u2026"
+  },
+  {
+    "name": "Parser combination by reparsing",
+    "link": "https://aclanthology.org/N06-2033.pdf",
+    "author": "K Sagae, A Lavie\u00a0- \u2026\u00a0of the NAACL, Companion Volume: Short\u00a0\u2026, 2006 - aclanthology.org",
+    "annotation": "We present a novel parser combination scheme that works by reparsing input sentences \nonce they have already been parsed by several different parsers. We apply this idea to \u2026"
+  },
+  {
+    "name": "Single malt or blended? A study in multilingual parser optimization",
+    "link": "https://link.springer.com/chapter/10.1007/978-90-481-9352-3_2",
+    "author": "J Hall, J Nilsson, J Nivre\u00a0- Trends in Parsing Technology, 2010 - Springer",
+    "annotation": "We describe a two-stage optimization of the MaltParser system for the ten languages in the \nmultilingual track of the CoNLL 2007 shared task on dependency parsing. The first stage \u2026"
+  },
+  {
+    "name": "A non-projective dependency parser",
+    "link": "https://aclanthology.org/A97-1011.pdf",
+    "author": "P Tapanainen, T Jarvinen\u00a0- Fifth Conference on Applied Natural\u00a0\u2026, 1997 - aclanthology.org",
+    "annotation": "\u2026 We describe a practical parser for unrestricted dependencies. The parser creates links \u2026 \nWe first describe the older Constraint Grammar parser where many of the ideas come from. \u2026"
+  },
+  {
+    "name": "A statistical parser for Czech",
+    "link": "https://aclanthology.org/P99-1065.pdf",
+    "author": "M Collins, J Hajic, L Ramshaw\u2026\u00a0- Proceedings of the 37th\u00a0\u2026, 1999 - aclanthology.org",
+    "annotation": "This paper considers statistical parsing of Czech, which differs radically from English in at \nleast two respects:(1) it is a highly inflected language, and (2) it has relatively free word order. \u2026"
+  },
+  {
+    "name": "Corpus variation and parser performance",
+    "link": "https://aclanthology.org/W01-0521.pdf",
+    "author": "D Gildea\u00a0- Proceedings of the 2001 Conference on Empirical\u00a0\u2026, 2001 - aclanthology.org",
+    "annotation": "\u2026 of how other types of text might a ect parser performance, and how portable parsing models \n\u2026 , and also consider which parts of the parser's probability model are particularly tuned to the \u2026"
+  },
+  {
+    "name": "Maltparser: A data-driven parser-generator for dependency parsing.",
+    "link": "http://lrec-conf.org/proceedings/lrec2006/pdf/162_pdf.pdf",
+    "author": "J Nivre, J Hall, J Nilsson\u00a0- LREC, 2006 - lrec-conf.org",
+    "annotation": "\u2026 In this paper, we have described the functionality of MaltParser, a data-driven parser-generator \nfor dependency parsing, which can be used to create a parser for a new language given \u2026"
+  },
+  {
+    "name": "A probabilistic Earley parser as a psycholinguistic model",
+    "link": "https://aclanthology.org/N01-1021.pdf",
+    "author": "J Hale\u00a0- Second meeting of the north american chapter of the\u00a0\u2026, 2001 - aclanthology.org",
+    "annotation": "In human sentence processing, cognitive load can be defined many ways. This report \nconsiders a definition of cognitive load in terms of the total probability of structural options that \u2026"
+  },
+  {
+    "name": "A new statistical parser based on bigram lexical dependencies",
+    "link": "https://arxiv.org/abs/cmp-lg/9605012",
+    "author": "M Collins\u00a0- arXiv preprint cmp-lg/9605012, 1996 - arxiv.org",
+    "annotation": "This paper describes a new statistical parser which is based on probabilities of dependencies \nbetween head-words in the parse tree. Standard bigram probability estimation techniques \u2026"
+  },
+  {
+    "name": "Building a semantic parser overnight",
+    "link": "https://aclanthology.org/P15-1129.pdf",
+    "author": "Y Wang, J Berant, P Liang\u00a0- \u2026\u00a0of the 53rd Annual Meeting of the\u00a0\u2026, 2015 - aclanthology.org",
+    "annotation": "\u2026 How do we build a semantic parser in a new domain starting \u2026 The resulting data is used to \ntrain the semantic parser. We fur\u2026 can build an adequate semantic parser in just a few hours. \u2026"
+  },
+  {
+    "name": "ACPYPE-Antechamber python parser interface",
+    "link": "https://link.springer.com/article/10.1186/1756-0500-5-367",
+    "author": "AW Sousa da Silva, WF Vranken\u00a0- BMC research notes, 2012 - Springer",
+    "annotation": "ACPYPE (or AnteChamber PYthon Parser interfacE) is a wrapper script around the \nANTECHAMBER software that simplifies the generation of small molecule topologies and \u2026"
+  }
+]
